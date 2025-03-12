@@ -1,0 +1,14 @@
+C:\Users\grybo\Desktop\ConsoleGameTom\ConsoleGameTom\bin\Debug\net8.0\ConsoleGameTom.exe
+C:\Users\grybo\Desktop\ConsoleGameTom\ConsoleGameTom\bin\Debug\net8.0\ConsoleGameTom.deps.json
+C:\Users\grybo\Desktop\ConsoleGameTom\ConsoleGameTom\bin\Debug\net8.0\ConsoleGameTom.runtimeconfig.json
+C:\Users\grybo\Desktop\ConsoleGameTom\ConsoleGameTom\bin\Debug\net8.0\ConsoleGameTom.dll
+C:\Users\grybo\Desktop\ConsoleGameTom\ConsoleGameTom\bin\Debug\net8.0\ConsoleGameTom.pdb
+C:\Users\grybo\Desktop\ConsoleGameTom\ConsoleGameTom\obj\Debug\net8.0\ConsoleGameTom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grybo\Desktop\ConsoleGameTom\ConsoleGameTom\obj\Debug\net8.0\ConsoleGameTom.AssemblyInfoInputs.cache
+C:\Users\grybo\Desktop\ConsoleGameTom\ConsoleGameTom\obj\Debug\net8.0\ConsoleGameTom.AssemblyInfo.cs
+C:\Users\grybo\Desktop\ConsoleGameTom\ConsoleGameTom\obj\Debug\net8.0\ConsoleGameTom.csproj.CoreCompileInputs.cache
+C:\Users\grybo\Desktop\ConsoleGameTom\ConsoleGameTom\obj\Debug\net8.0\ConsoleGameTom.dll
+C:\Users\grybo\Desktop\ConsoleGameTom\ConsoleGameTom\obj\Debug\net8.0\refint\ConsoleGameTom.dll
+C:\Users\grybo\Desktop\ConsoleGameTom\ConsoleGameTom\obj\Debug\net8.0\ConsoleGameTom.pdb
+C:\Users\grybo\Desktop\ConsoleGameTom\ConsoleGameTom\obj\Debug\net8.0\ConsoleGameTom.genruntimeconfig.cache
+C:\Users\grybo\Desktop\ConsoleGameTom\ConsoleGameTom\obj\Debug\net8.0\ref\ConsoleGameTom.dll
